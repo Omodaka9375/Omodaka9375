@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Branislav Đalić</h1>
 <h3 align="center">A passionate AI, blockchain and CyberSec developer</h3>
 
-- 🔭 I’m currently working on [Resistant Storage](https://resistantstorage.com/)
+- 🔭 I’m currently working on [Resistant Storage](#)
 
 - 🌱 I’m currently learning **Malware and virus research**
 
 - 👯 Also currently working at [Footballerista](https://footballerista.com/)
 
-- 🤝 Still trying to bootstrap [TopiShare](https://www.topicshare.io/)
+- 🤝 Still trying to bootstrap [TopicShare](https://www.topicshare.io/)
 
 - 👨‍💻 All of my projects are available at [https://gitzilla.netlify.app/users/Omodaka9375](https://gitzilla.netlify.app/users/Omodaka9375)
 
