@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Branislav Đalić</h1>
 <h3 align="center">A passionate AI, blockchain and CyberSec developer</h3>
 
-- 🔭 I’m currently working on [Resistant Storage](#)
+- 🔭 I’m currently working at [AIN](https://www.ain.rs/)
 
 - 🌱 I’m currently learning **Malware and virus research**
 
