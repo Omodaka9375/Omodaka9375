@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **hacks, tips and tricks**
 
-- 📫 How to reach me **branislav.djalic@gmail.com**
+- 📫 Reach me at **branislav.djalic@gmail.com**
 
 - ⚡ Fun fact **I like single page websites. Don't @ me.**
 
