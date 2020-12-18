@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Branislav Đalić</h1>
 <h3 align="center">A passionate AI, blockchain and CyberSec developer</h3>
 
-- 🔭 I’m currently working at [AIN](https://www.ain.rs/)
+- 🔭 I’m currently founder at [AIN](https://www.ain.rs/)
 
 - 🌱 I’m currently learning **Malware and virus research**
 
-- 👯 Also currently working at [Footballerista](https://footballerista.com/)
+- 👯 Also currently working as CTO @ [Footballerista](https://footballerista.com/)
 
 - 🤝 Still trying to bootstrap [TopicShare](https://www.topicshare.io/)
 
