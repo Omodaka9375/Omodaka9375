@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Malware and virus research**
 
-- 👯 Also currently working as CTO @ [Footballerista](https://footballerista.com/)
-
-- 🤝 Still trying to bootstrap [TopicShare](https://www.topicshare.io/)
+- 👯 Also currently working as CTO @ [ComIT](https://comit.rs/)
 
 - 👨‍💻 All of my projects are available at [https://gitzilla.netlify.app/users/Omodaka9375](https://gitzilla.netlify.app/users/Omodaka9375)
 
