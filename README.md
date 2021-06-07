@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Branislav Đalić</h1>
 <h3 align="center">A passionate AI, blockchain and CyberSec developer</h3>
 
-- 🔭 I’m currently founder at [AIN](https://www.ain.rs/)
+- 🔭 I’m currently CTO and co-founder at [AIN](https://www.ain.rs/)
 
-- 🌱 I’m currently learning **Malware and virus research**
-
-- 👯 Also currently working as CTO @ [ComIT](https://comit.rs/)
+- 👯 Also currently working with @ [ComIT](https://comit.rs/)
 
 - 👨‍💻 All of my projects are available at [https://gitzilla.netlify.app/users/Omodaka9375](https://gitzilla.netlify.app/users/Omodaka9375)
 
