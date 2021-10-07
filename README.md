@@ -3,8 +3,6 @@
 
 - 🔭 CTO and co-founder at [AIN](https://www.ain.rs/)
 
-- 👯 Also working with @ [ComIT](https://comit.rs/)
-
 - 👨‍💻 Most of my projects are available at [https://gitzilla.netlify.app/users/Omodaka9375](https://gitzilla.netlify.app/users/Omodaka9375)
 
 - 📝 I regulary write articles on [https://hackernoon.com/u/omodaka9375](https://hackernoon.com/u/omodaka9375)
