@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Branislav Đalić</h1>
 <h3 align="center">A passionate AI, blockchain and CyberSec developer</h3>
 
-- 🔭 CTO and co-founder at [AIN](https://www.ain.rs/)
+- 🔭 CTO at [Footballerista](https://footballerista.com/) and co-founder at [AIN](https://www.ain.rs/)
 
 - 👨‍💻 Most of my projects are available at [https://gitzilla.netlify.app/users/Omodaka9375](https://gitzilla.netlify.app/users/Omodaka9375)
 
