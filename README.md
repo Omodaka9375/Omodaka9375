@@ -3,9 +3,7 @@
 
 - 🔭 CTO at and co-founder at [AIN](https://www.ain.rs/) and [NFT-TIX](https://www.nft-tix.com/)
 
-- 👨‍💻 Most of my projects are available at [https://gitzilla.netlify.app/users/Omodaka9375](https://gitzilla.netlify.app/users/Omodaka9375)
-
-- 📝 I regulary write articles on [https://hackernoon.com/u/omodaka9375](https://hackernoon.com/u/omodaka9375)
+- 📝 I sometimes write articles on [https://hackernoon.com/u/omodaka9375](https://hackernoon.com/u/omodaka9375)
 
 - 💬 Ask me about **hacks, tips and tricks**
 
