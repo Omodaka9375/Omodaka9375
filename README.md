@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I like single page websites. Don't @ me.**
 
-- 👋 Checkout my music on [Soundcloud](https://soundcloud.com/xinterlooper)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
