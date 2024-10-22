@@ -3,7 +3,7 @@
 
 - 🔭 Founder at [AIN](https://www.ain.rs/)
 
-- Visit my personal page [interlooper.xyz](https://interloopr.xyz)
+- Visit my personal page @ [interlooper.xyz](https://interlooper.xyz)
 
 - 📝 I sometimes write articles on [https://hackernoon.com/u/omodaka9375](https://hackernoon.com/u/omodaka9375)
 
