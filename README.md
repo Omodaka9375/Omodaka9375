@@ -3,7 +3,7 @@
 
 - 🔭 Founder at [AIN](https://www.ain.rs/)
 
-- Mu Portfolio: [https://omodaka9375.github.io/portfolio/](https://omodaka9375.github.io/portfolio/)
+- My portfolio: [https://omodaka9375.github.io/portfolio/](https://omodaka9375.github.io/portfolio/)
 
 - 📝 I sometimes write articles on [https://hackernoon.com/u/omodaka9375](https://hackernoon.com/u/omodaka9375)
 
