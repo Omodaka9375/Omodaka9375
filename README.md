@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Branislav Đalić</h1>
 <h3 align="center">A passionate AI, blockchain and CyberSec developer</h3>
 
-- 🔭 Founder at [AIN](https://www.ain.rs/)
-
 - My portfolio: [https://omodaka9375.github.io/portfolio/](https://omodaka9375.github.io/portfolio/)
 
 - 📝 I sometimes write articles on [https://hackernoon.com/u/omodaka9375](https://hackernoon.com/u/omodaka9375)
