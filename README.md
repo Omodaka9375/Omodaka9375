@@ -45,6 +45,11 @@
 - **[MIDIfren](https://github.com/Omodaka9375/MIDIfren)** — Stem separation → MIDI conversion (vocals, drums, bass)
 - **[SoundTerminal](https://github.com/Omodaka9375/soundterminal)** — ASCII patterns → beats in your terminal
 
+## 🚀 Latest Contributions
+
+- **[Dreamwork](https://www.dreamworkhq.com/)** — Hiring platform that skips resumes: stop applying, start interviewing
+- **[Wisp](https://usewisp.io/)** — Privacy-first AI chat with client-side TEE encryption, open models, zero data training
+- **[TMRW](https://apps.apple.com/us/app/tmrw-tv-culture-predictions/id6762473428)** — TV & pop-culture predictions app (iOS). Video predictions, vote, earn rewards · [Ponder](https://ponder.social/)
 
 ## 💼 Experience
 
