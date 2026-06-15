@@ -55,7 +55,7 @@
 
 | Period | Role | Company |
 |---|---|---|
-| current | **System Arhitect** | [Ponder](https://ponder.social/) · Delaware, USA |
+| current | **Senior Software Engineer** | [Ponder](https://ponder.social/) · Delaware, USA |
 | 2023 – current | **Founder & CTO** | [AIN](https://ain.rs) · [Tiksi](https://tiksi.io) · Belgrade, Serbia |
 | 2021 – 2023 | **CTO** | [Footballerista](https://footballerista.com/) · Lucerne, Switzerland |
 | 2020 – 2021 | **Head of Development** | [Zepter](https://www.zepter.rs/) · Belgrade, Serbia |
