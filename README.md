@@ -1,7 +1,6 @@
 # Hi, I'm Branislav!
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/39777434?v=4&size=256" alt="" />
   <br/>
   <sub>15+ years building software people actually use — from game engines, dApps to AI tooling</sub>
   <br/:
