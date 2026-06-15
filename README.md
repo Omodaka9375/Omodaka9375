@@ -7,14 +7,6 @@
 | **Cybersecurity** | App/web security, pentesting, ESP32/M5Stack hardware hacking, WiFi security |
 | **Machine Learning** | Computer vision, generative AI — OpenCV, Scikit, HuggingFace, LlamaIndex, CLIP |
 
-## 📊 Activity
-
-<div align="center">
-  <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=Omodaka9375&theme=react-dark&radius=12&custom_title=true&bg_color=161b22&line=ff7b72&currTextColor=58a6ff&title_color=58a6ff" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omodaka9375&theme=react-dark&hide_border=true&fire=ff7b72&contribs=58a6ff" />
-</div>
-
 ---
 
 ## 📂 Things I've Built
@@ -97,6 +89,13 @@
 
 </div>
 
+## 📊 Activity
+
+<div align="center">
+  <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=Omodaka9375&theme=react-dark&radius=12&custom_title=true&bg_color=161b22&line=ff7b72&currTextColor=58a6ff&title_color=58a6ff" />
+</div>
+
+
 ## 🌍 Connect
 
 <div align="center">
@@ -109,6 +108,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836??style=for-the-platform&logo=gmail&logoColor=white)](mailto:branislav.djalic@gmail.com)
 
 </div>
+
 
 
 <div align="center">
