@@ -12,11 +12,12 @@
 ## 📂 Things I've Built
 
 ### 🔐 Security & AI
-- **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
-- **[DeepPhish](https://github.com/Omodaka9375/DeepPhish)** — ML-powered phishing detector browser extension
+- **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
 - **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell (OpenAI, Anthropic, Gemini) (🍴 18)
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
 - **[WAKE](https://omodaka9375.github.io/wake/)** — Post-mortem protocol for AI agents
+- **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
+- **[DeepPhish](https://github.com/Omodaka9375/DeepPhish)** — ML-powered phishing detector browser extension
 
 ### 🌐 Web Apps & Tools
 - **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)
