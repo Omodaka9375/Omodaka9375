@@ -1,15 +1,3 @@
-# Hi, I'm Branislav!
-
-<div align="center">
-  <br/>
-  <sub>15+ years building software people actually use — from game engines, dApps to AI tooling</sub>
-  <br/:
-
-  <img src="https://github.com/anuraghazra/anuraghazra/blob/output/images/cut.gif" height="3" alt="" />
-</div>
-
----
-
 ## 🧠 What I Do
 
 | Domain | Focus |
