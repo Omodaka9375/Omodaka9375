@@ -11,15 +11,27 @@
 
 ## 📂 Things I've Built
 
-### 🔐 Security & AI
+### 🔐 AI
 - **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
 - **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell (OpenAI, Anthropic, Gemini) (🍴 18)
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
 - **[WAKE](https://omodaka9375.github.io/wake/)** — Post-mortem protocol for AI agents
+- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)
+- **[CodePrompt](https://codeprompt.me/)** — Codebase → clean LLM prompt, token-efficient
 - **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
 - **[DeepPhish](https://github.com/Omodaka9375/DeepPhish)** — ML-powered phishing detector browser extension
 
-### ⛓️ Blockchain & P2P
+### 🌐 Web Apps & Tools
+- **[Ratatui](https://clustr.run)** — A CMS layer for any static page and a tiny reactive engine
+- **[GitLike](https://gitlike.dev)** — Decentralized Git: IPFS repos, Ethereum auth, federated
+- **[Velocity.js](https://velocity-js.info)** — JS performance library (prefetching, caching, PWA)
+- **[SnapSecret](https://snapsecret.lol)** — Self-destructing encrypted messages
+- **[PressBoard](https://omodaka9375.github.io/pressboard/)** — PCB design for DIY 3D printing
+- **[MonoFrame](https://app.gitlike.dev/monoframe/)** — Unicode box-drawing wireframer
+- **[GifNail](https://gifnail.com)** — Animated GIFs on open graphs, no hosting needed
+- **[Unshittyfy](https://unshittyfy.com)** — Productivity app with an honesty leaderboard
+
+### ⛓️ P2P
 - **[Tiksi](https://tiksi.io)** — NFT tickets inside Telegram (no scalping, no fakes)
 - **[ChainWise](https://chainwise.me/)** — 17+ chains via 1 API: wallets, signing, key management
 - **[PeerWeb](https://peerweb.lol)** — Decentralized website hosting on WebTorrent (⭐ 103, 🍴 6)
@@ -27,17 +39,7 @@
 - **[GramCast](https://gramcast.xyz/)** — Podcast app inside Telegram (IPFS storage, AuroraDB)
 - **[NFC ETH Wallet](https://hackernoon.com/heres-how-i-built-an-eth-wallet-on-a-cheap-nfc-sticker-er1j3wyd)** — 888-byte NFC cold wallet
 
-### 🌐 Web Apps & Tools
-- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)
-- **[GitLike](https://gitlike.dev)** — Decentralized Git: IPFS repos, Ethereum auth, federated
-- **[Velocity.js](https://velocity-js.info)** — JS performance library (prefetching, caching, PWA)
-- **[CodePrompt](https://codeprompt.me/)** — Codebase → clean LLM prompt, token-efficient
-- **[SnapSecret](https://snapsecret.lol)** — Self-destructing encrypted messages
-- **[PressBoard](https://omodaka9375.github.io/pressboard/)** — PCB design for DIY 3D printing
-- **[MonoFrame](https://app.gitlike.dev/monoframe/)** — Unicode box-drawing wireframer
-- **[GifNail](https://gifnail.com)** — Animated GIFs on open graphs, no hosting needed
-- **[Unshittyfy](https://unshittyfy.com)** — Productivity app with an honesty leaderboard
-- 
+ 
 ### 🎵 Audio & Creative
 - **[808ify](https://omodaka9375.github.io/808ify)** — Browser drum machine (sequencer, EQ, MIDI)
 - **[Brutus](https://omodaka9375.github.io/brutus)** — Brutalist browser synth with MIDI support
