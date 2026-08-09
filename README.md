@@ -18,7 +18,6 @@
 - **[WAKE](https://omodaka9375.github.io/wake/)** — Post-mortem protocol for AI agents
 - **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)
 - **[CodePrompt](https://codeprompt.me/)** — Codebase → clean LLM prompt, token-efficient
-- **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
 - **[DeepPhish](https://github.com/Omodaka9375/DeepPhish)** — ML-powered phishing detector browser extension
 
 ### 🌐 Web Apps & Tools
@@ -30,6 +29,7 @@
 - **[MonoFrame](https://app.gitlike.dev/monoframe/)** — Unicode box-drawing wireframer
 - **[GifNail](https://gifnail.com)** — Animated GIFs on open graphs, no hosting needed
 - **[Unshittyfy](https://unshittyfy.com)** — Productivity app with an honesty leaderboard
+- **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
 
 ### ⛓️ P2P
 - **[Tiksi](https://tiksi.io)** — NFT tickets inside Telegram (no scalping, no fakes)
