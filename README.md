@@ -3,9 +3,9 @@
 | Domain | Focus |
 |---|---|
 | **Software Engineering** | Agentic workflows, MCP protocols, full-stack apps, game engines, developer tools — TypeScript, Python, Rust, C++, C# |
-| **Blockchain** | Smart contracts (Solidity, Vyper, FunC, Tact), dApps, peer-to-peer systems on Ethereum & TON |
+| **AI & ML** | Computer vision, generative AI — OpenCV, Scikit, HuggingFace, LlamaIndex, CLIP |
 | **Cybersecurity** | App/web security, pentesting, ESP32/M5Stack hardware hacking, WiFi security |
-| **Machine Learning** | Computer vision, generative AI — OpenCV, Scikit, HuggingFace, LlamaIndex, CLIP |
+| **Blockchain** | Smart contracts (Solidity, Vyper, FunC, Tact), dApps, peer-to-peer systems on Ethereum & TON |
 
 ---
 
@@ -13,12 +13,12 @@
 
 ### 🔐 AI
 - **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
+- **[UGREEN NAS MCP](https://github.com/Omodaka9375/ugnas-mcp)** - A Model Context Protocol server for UGREEN NAS running UGOS  
+- **[NetExpert MCP](https://github.com/Omodaka9375/netexpert-mcp)** - Cross-platform local-network diagnostics & security-posture MCP server 
 - **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell (OpenAI, Anthropic, Gemini) (🍴 18)
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
-- **[WAKE](https://omodaka9375.github.io/wake/)** — Post-mortem protocol for AI agents
-- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)
-- **[CodePrompt](https://codeprompt.me/)** — Codebase → clean LLM prompt, token-efficient
-- **[DeepPhish](https://github.com/Omodaka9375/DeepPhish)** — ML-powered phishing detector browser extension
+- **[WAKE MCP](https://omodaka9375.github.io/wake/)** — Post-mortem MCP for AI agents
+- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)n
 
 ### 🌐 Web Apps & Tools
 - **[Ratatui](https://clustr.run)** — A CMS layer for any static page and a tiny reactive engine
