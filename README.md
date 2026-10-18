@@ -41,6 +41,7 @@
 
  
 ### 🎵 Audio & Creative
+- **[machinedrum](https://github.com/Omodaka9375/machinedrum)** — A 16-voice digital drum machine in your browser
 - **[808ify](https://omodaka9375.github.io/808ify)** — Browser drum machine (sequencer, EQ, MIDI)
 - **[Brutus](https://omodaka9375.github.io/brutus)** — Brutalist browser synth with MIDI support
 - **[Dilber](https://dilber.engine)** — Live audio/visual code engine in the browser (⭐ 18)
