@@ -20,7 +20,7 @@
 - **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
 - **[WAKE MCP](https://omodaka9375.github.io/wake/)** — Post-mortem MCP for AI agents
-- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)n
+- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph
 
 ### 🌐 Web Apps & Tools
 - **[Ratatui](https://clustr.run)** — A CMS layer for any static page and a tiny reactive engine
