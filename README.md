@@ -13,9 +13,11 @@
 
 ### 🔐 AI
 - **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
+- **[Browserr](https://github.com/Omodaka9375/browserr)** — Servo-based headless browser engine for AI agents
+- **[ActDown](https://github.com/Omodaka9375/actdown)** — Actionable Markdown. A Markdown superset that agents can read, write, and operate
 - **[UGREEN NAS MCP](https://github.com/Omodaka9375/ugnas-mcp)** - A Model Context Protocol server for UGREEN NAS running UGOS  
 - **[NetExpert MCP](https://github.com/Omodaka9375/netexpert-mcp)** - Cross-platform local-network diagnostics & security-posture MCP server 
-- **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell (OpenAI, Anthropic, Gemini) (🍴 18)
+- **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
 - **[WAKE MCP](https://omodaka9375.github.io/wake/)** — Post-mortem MCP for AI agents
 - **[Clustr](https://clustr.run)** — Text → interactive knowledge graph (Google Maps–style)n
@@ -34,7 +36,7 @@
 ### ⛓️ P2P
 - **[Tiksi](https://tiksi.io)** — NFT tickets inside Telegram (no scalping, no fakes)
 - **[ChainWise](https://chainwise.me/)** — 17+ chains via 1 API: wallets, signing, key management
-- **[PeerWeb](https://peerweb.lol)** — Decentralized website hosting on WebTorrent (⭐ 103, 🍴 6)
+- **[PeerWeb](https://peerweb.lol)** — Decentralized website hosting on WebTorrent
 - **[AuroraDB](https://www.npmjs.com/package/aurora-db)** — IndexedDB wrapper, powers several projects
 - **[GramCast](https://gramcast.xyz/)** — Podcast app inside Telegram (IPFS storage, AuroraDB)
 - **[NFC ETH Wallet](https://hackernoon.com/heres-how-i-built-an-eth-wallet-on-a-cheap-nfc-sticker-er1j3wyd)** — 888-byte NFC cold wallet
@@ -44,7 +46,7 @@
 - **[machinedrum](https://github.com/Omodaka9375/machinedrum)** — A 16-voice digital drum machine in your browser
 - **[808ify](https://omodaka9375.github.io/808ify)** — Browser drum machine (sequencer, EQ, MIDI)
 - **[Brutus](https://omodaka9375.github.io/brutus)** — Brutalist browser synth with MIDI support
-- **[Dilber](https://dilber.engine)** — Live audio/visual code engine in the browser (⭐ 18)
+- **[Dilber](https://dilber.engine)** — Live audio/visual code engine in the browser
 - **[MIDIfren](https://github.com/Omodaka9375/MIDIfren)** — Stem separation → MIDI conversion (vocals, drums, bass)
 - **[SoundTerminal](https://github.com/Omodaka9375/soundterminal)** — ASCII patterns → beats in your terminal
 
