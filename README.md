@@ -19,8 +19,6 @@
 - **[AI In A Shell](https://github.com/Omodaka9375/ai-in-a-shell)** — Natural language → commands via shell
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
 - **[WAKE MCP](https://omodaka9375.github.io/wake/)** — Post-mortem MCP for AI agents
-- **[Clustr](https://clustr.run)** — Text → interactive knowledge graph
-- **[Ratatui]([https://omodaka9375.github.io/ratatui/])** — A CMS layer for any static page and a tiny reactive engine
 - **[GitLike](https://gitlike.dev)** — Decentralized Git: IPFS repos, Ethereum auth, federated
 - **[Velocity.js](https://velocity-js.info)** — JS performance library (prefetching, caching, PWA)
 - **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
