@@ -11,7 +11,6 @@
 
 ## 📂 Things I've Built
 
-### 🔐 AI
 - **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
 - **[Browserr](https://github.com/Omodaka9375/browserr)** — Servo-based headless browser engine for AI agents
 - **[ActDown](https://github.com/Omodaka9375/actdown)** — Actionable Markdown. A Markdown superset that agents can read, write, and operate
@@ -21,34 +20,11 @@
 - **[FADE](https://github.com/Omodaka9375/fade)** — KV cache compression for LLM inference (3.5–12× smaller)
 - **[WAKE MCP](https://omodaka9375.github.io/wake/)** — Post-mortem MCP for AI agents
 - **[Clustr](https://clustr.run)** — Text → interactive knowledge graph
-
-### 🌐 Web Apps & Tools
-- **[Ratatui](https://clustr.run)** — A CMS layer for any static page and a tiny reactive engine
+- **[Ratatui]([https://omodaka9375.github.io/ratatui/])** — A CMS layer for any static page and a tiny reactive engine
 - **[GitLike](https://gitlike.dev)** — Decentralized Git: IPFS repos, Ethereum auth, federated
 - **[Velocity.js](https://velocity-js.info)** — JS performance library (prefetching, caching, PWA)
-- **[SnapSecret](https://snapsecret.lol)** — Self-destructing encrypted messages
-- **[PressBoard](https://omodaka9375.github.io/pressboard/)** — PCB design for DIY 3D printing
-- **[MonoFrame](https://app.gitlike.dev/monoframe/)** — Unicode box-drawing wireframer
-- **[GifNail](https://gifnail.com)** — Animated GIFs on open graphs, no hosting needed
-- **[Unshittyfy](https://unshittyfy.com)** — Productivity app with an honesty leaderboard
 - **[Raccine](https://github.com/Omodaka9375/Raccine)** — Award-winning ransomware prevention
-
-### ⛓️ P2P
-- **[Tiksi](https://tiksi.io)** — NFT tickets inside Telegram (no scalping, no fakes)
-- **[ChainWise](https://chainwise.me/)** — 17+ chains via 1 API: wallets, signing, key management
 - **[PeerWeb](https://peerweb.lol)** — Decentralized website hosting on WebTorrent
-- **[AuroraDB](https://www.npmjs.com/package/aurora-db)** — IndexedDB wrapper, powers several projects
-- **[GramCast](https://gramcast.xyz/)** — Podcast app inside Telegram (IPFS storage, AuroraDB)
-- **[NFC ETH Wallet](https://hackernoon.com/heres-how-i-built-an-eth-wallet-on-a-cheap-nfc-sticker-er1j3wyd)** — 888-byte NFC cold wallet
-
- 
-### 🎵 Audio & Creative
-- **[machinedrum](https://github.com/Omodaka9375/machinedrum)** — A 16-voice digital drum machine in your browser
-- **[808ify](https://omodaka9375.github.io/808ify)** — Browser drum machine (sequencer, EQ, MIDI)
-- **[Brutus](https://omodaka9375.github.io/brutus)** — Brutalist browser synth with MIDI support
-- **[Dilber](https://dilber.engine)** — Live audio/visual code engine in the browser
-- **[MIDIfren](https://github.com/Omodaka9375/MIDIfren)** — Stem separation → MIDI conversion (vocals, drums, bass)
-- **[SoundTerminal](https://github.com/Omodaka9375/soundterminal)** — ASCII patterns → beats in your terminal
 
 ## 🚀 Latest Contributions
 
@@ -102,13 +78,6 @@
 
 </div>
 
-## 📊 Activity
-
-<div align="center">
-  <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=Omodaka9375&theme=react-dark&radius=12&custom_title=true&bg_color=161b22&line=ff7b72&currTextColor=58a6ff&title_color=58a6ff" />
-</div>
-
-
 ## 🌍 Connect
 
 <div align="center">
@@ -120,12 +89,4 @@
 [![Farcaster](https://img.shields.io/badge/Farcaster-000000?style=for-the-platform&logo=farcaster&logoColor=white)](https://farcaster.xyz/bane84)
 [![Email](https://img.shields.io/badge/Gmail-D14836??style=for-the-platform&logo=gmail&logoColor=white)](mailto:branislav.djalic@gmail.com)
 
-</div>
-
-
-
-<div align="center">
-  <img src="https://github.com/anuraghazra/anuraghazra/blob/output/images/cut.gif" height="3" alt="" />
-  <br/>
-  <sub>Portfolio: <a href="https://omodaka9375.github.io/portfolio/"><code>omodaka9375.github.io/portfolio/</code></a></sub>
 </div>
