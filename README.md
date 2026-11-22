@@ -9,6 +9,9 @@
 
 ---
 
+## 📖 Blog
+[Writings and projects](https://omodaka9375.github.io/portfolio/)
+
 ## 📂 Things I've Built
 
 - **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
