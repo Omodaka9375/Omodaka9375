@@ -16,6 +16,7 @@
 
 - **[KAI](https://github.com/Omodaka9375/kai)** — Cross-platform, compact and fast AI terminal emulator
 - **[Browserr](https://github.com/Omodaka9375/browserr)** — Servo-based headless browser engine for AI agents
+- **[DNSi](https://github.com/Omodaka9375/DNSi)** - Internal knowledge and small tools, delivered by DNS
 - **[ActDown](https://github.com/Omodaka9375/actdown)** — Actionable Markdown. A Markdown superset that agents can read, write, and operate
 - **[UGREEN NAS MCP](https://github.com/Omodaka9375/ugnas-mcp)** - A Model Context Protocol server for UGREEN NAS running UGOS  
 - **[NetExpert MCP](https://github.com/Omodaka9375/netexpert-mcp)** - Cross-platform local-network diagnostics & security-posture MCP server 
